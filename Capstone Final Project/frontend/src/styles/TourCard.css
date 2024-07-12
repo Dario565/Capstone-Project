@@ -1,0 +1,39 @@
+.tour-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 16px;
+  max-width: 300px;
+  cursor: pointer;
+  transition: transform 0.3s;
+  
+}
+
+.tour-card:hover {
+  transform: scale(1.05);
+}
+
+.tour-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.tour-details {
+  padding: 16px;
+}
+
+.tour-price {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #2a9d8f;
+}
+
+.btn{
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+}
+

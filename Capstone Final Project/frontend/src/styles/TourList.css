@@ -1,0 +1,21 @@
+
+.tour-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.tour-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  cursor: pointer;
+}
+
+.tour-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.tour-image {
+  height: 200px;
+  object-fit: cover;
+}

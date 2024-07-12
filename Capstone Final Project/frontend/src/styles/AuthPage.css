@@ -1,0 +1,23 @@
+.auth-form {
+  padding: 20px;
+  margin-top: 50px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.auth-form h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  color: #2a9d8f;
+  text-align: center;
+}
+
+.auth-form button {
+  width: 100%;
+}
+
+.auth-form .btn-link {
+  display: block;
+  margin: 10px auto;
+}

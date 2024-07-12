@@ -1,0 +1,73 @@
+.tours-page {
+  padding: 20px;
+}
+
+.tours-page h1 {
+  color: #2a9d8f;
+}
+
+.tour-details-modal .modal-header {
+  background-color: #2a9d8f;
+  color: white;
+}
+
+.tour-price {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #2a9d8f;
+}
+
+
+.bookings-container {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+
+.bookings-container h2 {
+  text-align: center;
+  color: #007bff;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+
+.bookings-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+.bookings-container ul li {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  padding: 15px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.bookings-container ul li:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.bookings-container .btn {
+  margin-top: 10px;
+}
+
+
+.bookings-container ul li strong {
+  color: #333;
+  font-size: 18px;
+}
+
+
+.bookings-container ul li p {
+  margin: 5px 0;
+  color: #555;
+}

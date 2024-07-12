@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2a9d8f;
+  color: white;
+  padding: 20px 0;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 1em;
+}
+
+.page-container {
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+}
+
+.content-wrap {
+  flex: 1;
+  padding-bottom: 50px; 
+}

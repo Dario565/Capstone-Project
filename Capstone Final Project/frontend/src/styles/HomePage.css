@@ -1,0 +1,85 @@
+.home-page {
+  padding: 20px;
+}
+
+.home-page h1,
+.home-page h2 {
+  color: #2a9d8f;
+}
+.home-page {
+  padding: 20px;
+}
+
+
+.services-section {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.services-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+.services-section p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.services-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services-section ul li {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+
+.hero-section h1 {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+  color: rgb(62, 59, 59);
+}
+
+.hero-section .btn-primary {
+  background-color: #2a9d8f;
+  border-color: #2a9d8f;
+}
+
+.hero-section .btn-primary:hover {
+  background-color: #21867a;
+  border-color: #21867a;
+}
+
+.tour-details-modal .modal-header {
+  background-color: #2a9d8f;
+  color: white;
+}
+
+.tour-price {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #2a9d8f;
+}
+
+
+.home-carousel .carousel-item {
+  height: 400px; 
+  margin-bottom: 20px;
+}
+
+.home-carousel .carousel-image {
+  height: 100%;
+  object-fit: cover; 
+}
